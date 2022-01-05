@@ -1,0 +1,23 @@
+﻿@model StudentApplication.Models.Course
+@using TantaneLib
+
+<table width="100%">
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => Model.Title)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => Model.Unit)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => Model.Details)
+        </td>
+        <td>
+            <a href="@Url.Action("Edit", "Course", new { studentID= Model.StudentID, courseID=Model.ID })">Edit</a> |
+
+            
+
+        </td>
+    </tr>
+</table>
+

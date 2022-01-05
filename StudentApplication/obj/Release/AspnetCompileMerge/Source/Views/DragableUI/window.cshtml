@@ -1,0 +1,27 @@
+﻿
+@using TantaneLib
+
+@{ string dialogName = "dialog" + ViewBag.id;}
+
+<div id="@dialogName" title="Basic dialog">
+    @TanHtmlHelper.TanLoadSubpage(null, new TanBlockFeatures()
+{
+    BlockName = "DetailsWindow",
+    Influence_Location_of_Browser = false,
+    StaticURL= "/student/details?id="+ ViewBag.id
+})
+</div>
+
+
+<script>
+    $(function () {
+        var id = '#'+'@dialogName';
+        $(id).dialog();
+
+        $(id).find(".tantane_block").tempUpdateBlocklinksAndFormsAfterContentChange();
+    });
+
+
+    
+
+</script>

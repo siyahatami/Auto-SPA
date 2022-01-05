@@ -1,0 +1,18 @@
+﻿@using TantaneLib
+@{
+    ViewBag.Title = "Details2";
+}
+
+<h2>Details2</h2>
+
+<a href="/student/details2?id=@ViewBag.studentID&@TanHtmlHelper.Tan_Convert_to_SPA_Link(null, new TanLinkFeatures()
+                {
+                    Target_Block = TanBlock.Block_in_Currentform("DetailsWrapper")
+                })">Please Click here to page "Details" as an overlay (with_Url_History)</a> 
+
+@TanHtmlHelper.TanLoadSubpage(null, new TanBlockFeatures()
+{
+    BlockName = "DetailsWrapper",
+    StaticURL = "~/student/details/?id=" + ViewBag.studentID,
+    ShowAsOverlay=true
+})

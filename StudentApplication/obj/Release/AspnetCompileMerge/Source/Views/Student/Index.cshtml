@@ -1,0 +1,71 @@
+﻿@model IEnumerable<StudentApplication.Models.Student>
+@using TantaneLib
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+   
+    <a href="/student/create?@TanHtmlHelper.Tan_Convert_to_SPA_Link(null, new TanLinkFeatures()
+        {
+            Target_Block = TanBlock.Block_in_Currentform("studentBlock")
+        })"> Create New Student</a>
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Family)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Family)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+
+
+
+                <a href="/student/details1?id=@item.ID" class="btn btn-primary" role="button">Details1(without_Url_History)</a> |
+
+                <a href="/student/details?id=@item.ID" class="btn btn-primary" role="button">Details(with_Url_History)</a> |
+
+
+                <a href="/student/details?id=@item.ID&@TanHtmlHelper.Tan_Convert_to_SPA_Link(null, new TanLinkFeatures()
+                {
+                    Target_Block = TanBlock.Block_in_Currentform("studentBlock")
+                })" class="btn btn-primary" role="button">Details(Overlay_without_Url_History)</a> |
+
+
+                <a href="/student/details2?id=@item.ID" class="btn btn-primary" role="button">Details2(Overlay_with_Url_History)</a> |
+
+
+                @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+            </td>
+        </tr>
+    }
+
+</table>
+
+
+@TanHtmlHelper.TanLoadSubpage(null, new TanBlockFeatures()
+{
+    BlockName = "studentBlock",
+    ShowAsOverlay = true,
+    Influence_Location_of_Browser = false,
+    
+    Subsequent_BlockName_to_Referesh = TanBlock.Current_Form()
+})

@@ -1,0 +1,76 @@
+﻿
+
+@model IEnumerable<StudentApplication.Models.Course>
+@using StudentApplication.Models
+@using TantaneLib
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>
+    @{
+        Student st = _DB.Students.FirstOrDefault(s => s.ID == ViewBag.studentID);
+        string nameFam = st.Name + " " + st.Family;
+    }
+    Courses of Student "@nameFam"
+</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Unit)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Details)
+        </th>
+        <th>Actions</th>
+    </tr>
+</table>
+    @{ int i=0;}
+    @foreach (var item in Model)
+    {
+        <hr style="margin:0px;" />
+        @TanHtmlHelper.TanLoadSubpage(null, new TanBlockFeatures()
+       {
+           BlockName = "miniBlock"+i++,
+           Influence_Location_of_Browser = false,
+           StaticURL= "~/course/MiniDetails?studentID="+ViewBag.studentID+"&courseID="+item.ID
+       })
+
+
+        <a href="/course/delete?studentID=@item.StudentID&courseID=@item.ID@TanHtmlHelper.Tan_Convert_to_SPA_Link(null, new TanLinkFeatures()
+            {
+                Target_Block = TanBlock.Block_in_Currentform("courseBlock")
+            })">Delete</a>
+
+
+        <a href="@Url.Action("Details", "Course", new { studentID= ViewBag.studentID, courseID=item.ID })">Details</a>
+
+
+        
+                
+    }
+
+
+
+@TanHtmlHelper.TanLoadSubpage(null, new TanBlockFeatures()
+{
+    BlockName = "courseBlock",
+    ShowAsOverlay = true,
+    Influence_Location_of_Browser = true,
+    Subsequent_BlockName_to_Referesh = TanBlock.Current_Form()
+})
+
+
+
+
+
+
+
+
+
+

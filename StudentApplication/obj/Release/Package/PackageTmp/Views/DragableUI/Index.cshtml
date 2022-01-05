@@ -1,0 +1,58 @@
+﻿@using TantaneLib
+@using StudentApplication.Models
+@{
+    ViewBag.Title = "Index";
+}
+
+
+
+<div style="border:1px solid red; float:right; width:200px; height:200px;">
+
+
+    @if (_DB.Students != null)
+    {
+        foreach (var student in _DB.Students)
+        {
+            <a href="~/DragableUI/window?id=@student.ID&@TanHtmlHelper.Tan_Convert_to_SPA_Link(null, new TanLinkFeatures()
+                                                 {
+                                                     Target_Block = TanBlock.Block_in_Currentform("studentWindow" + student.ID.ToString())
+                                                 })">Student_@student.ID</a> <br />
+        }
+        <hr />
+    }
+
+</div>
+
+
+
+
+    @foreach (var student in _DB.Students)
+    {
+        @TanHtmlHelper.TanLoadSubpage(null, new TanBlockFeatures()
+       {
+           BlockName = "studentWindow" + student.ID.ToString(),
+           Influence_Location_of_Browser =false
+       })
+    }
+
+
+
+
+
+
+
+
+
+        <style>
+            body {
+                font-family: Arial, Helvetica, sans-serif;
+            }
+
+            table {
+                font-size: 1em;
+            }
+
+            .ui-draggable, .ui-droppable {
+                background-position: top;
+            }
+        </style>

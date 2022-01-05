@@ -1,0 +1,13 @@
+﻿@using TantaneLib
+@{
+    ViewBag.Title = "Details1";
+}
+
+<h2>Details1</h2>
+
+@TanHtmlHelper.TanLoadSubpage(null, new TanBlockFeatures()
+{
+    BlockName = "DetailsWrapper",
+    StaticURL = "~/student/details/?id=" + ViewBag.studentID,
+    Influence_Location_of_Browser=false
+})

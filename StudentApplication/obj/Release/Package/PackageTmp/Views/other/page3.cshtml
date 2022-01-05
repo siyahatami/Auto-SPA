@@ -1,0 +1,50 @@
+﻿@using TantaneLib
+@using StudentApplication.Models
+@{
+    ViewBag.Title = "page3";
+}
+
+<h2>page3</h2>
+<p>Content of Page3. Content of Page3. Content of Page3. Content of Page3. Content of Page3. Content of Page3. </p>
+
+<div style="border:1px solid green; float:left; width:200px; height:200px;">
+
+
+    @if (_DB.Students != null)
+    {
+        foreach (var student in _DB.Students)
+        {
+            <a href="~/student/details?id=@student.ID&@TanHtmlHelper.Tan_Convert_to_SPA_Link(null, new TanLinkFeatures()
+                                                 {
+                                                     Target_Block = TanBlock.Block_in_Currentform("OtherSubPage")
+                                                 })">Student_@student.ID</a> <br />
+        }
+        <hr />
+    }
+
+
+
+    <a href="/other/pageA?@TanHtmlHelper.Tan_Convert_to_SPA_Link(null, new TanLinkFeatures()
+        {
+            Target_Block = TanBlock.Block_in_Currentform("OtherSubPage")
+        })">pageA</a> <br />
+
+    <a href="/other/pageB?@TanHtmlHelper.Tan_Convert_to_SPA_Link(null, new TanLinkFeatures()
+        {
+            Target_Block = TanBlock.Block_in_Currentform("OtherSubPage")
+        })">pageB</a> <br />
+
+    <a href="/other/pageC?@TanHtmlHelper.Tan_Convert_to_SPA_Link(null, new TanLinkFeatures()
+        {
+            Target_Block = TanBlock.Block_in_Currentform("OtherSubPage")
+        })">pageC</a> <br />
+</div>
+
+
+@TanHtmlHelper.TanLoadSubpage(null, new TanBlockFeatures()
+{
+    BlockName = "OtherSubPage",
+    StaticURL = "~/other/pageA"
+})
+
+

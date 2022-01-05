@@ -1,0 +1,173 @@
+E:\StudentApp\StudentApplication\StudentApplication\bin\roslyn\csc.exe
+E:\StudentApp\StudentApplication\StudentApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\StudentApp\StudentApplication\StudentApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\StudentApp\StudentApplication\StudentApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\StudentApp\StudentApplication\StudentApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\StudentApp\StudentApplication\StudentApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\StudentApp\StudentApplication\StudentApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\StudentApp\StudentApplication\StudentApplication\bin\roslyn\System.Collections.Immutable.dll
+E:\StudentApp\StudentApplication\StudentApplication\bin\roslyn\System.Reflection.Metadata.dll
+E:\StudentApp\StudentApplication\StudentApplication\bin\roslyn\vbc.exe
+E:\StudentApp\StudentApplication\StudentApplication\bin\roslyn\VBCSCompiler.exe
+E:\StudentApp\StudentApplication\StudentApplication\bin\roslyn\VBCSCompiler.exe.config
+E:\StudentApp\StudentApplication\StudentApplication\bin\StudentApplication.dll.config
+E:\StudentApp\StudentApplication\StudentApplication\bin\StudentApplication.dll
+E:\StudentApp\StudentApplication\StudentApplication\bin\StudentApplication.pdb
+E:\StudentApp\StudentApplication\StudentApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\StudentApp\StudentApplication\StudentApplication\bin\Microsoft.Web.Infrastructure.dll
+E:\StudentApp\StudentApplication\StudentApplication\bin\System.Web.Helpers.dll
+E:\StudentApp\StudentApplication\StudentApplication\bin\System.Web.Mvc.dll
+E:\StudentApp\StudentApplication\StudentApplication\bin\System.Web.Razor.dll
+E:\StudentApp\StudentApplication\StudentApplication\bin\System.Web.Webpages.Deployment.dll
+E:\StudentApp\StudentApplication\StudentApplication\bin\System.Web.Webpages.dll
+E:\StudentApp\StudentApplication\StudentApplication\bin\System.Web.Webpages.Razor.dll
+E:\StudentApp\StudentApplication\StudentApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\StudentApp\StudentApplication\StudentApplication\bin\System.Web.Razor.xml
+E:\StudentApp\StudentApplication\StudentApplication\bin\System.Web.Webpages.xml
+E:\StudentApp\StudentApplication\StudentApplication\bin\System.Web.Webpages.Deployment.xml
+E:\StudentApp\StudentApplication\StudentApplication\bin\System.Web.Webpages.Razor.xml
+E:\StudentApp\StudentApplication\StudentApplication\bin\System.Web.Helpers.xml
+E:\StudentApp\StudentApplication\StudentApplication\bin\System.Web.Mvc.xml
+E:\StudentApp\StudentApplication\StudentApplication\obj\Debug\StudentApplication.csprojResolveAssemblyReference.cache
+E:\StudentApp\StudentApplication\StudentApplication\obj\Debug\StudentApplication.dll
+E:\StudentApp\StudentApplication\StudentApplication\obj\Debug\StudentApplication.pdb
+E:\StudentApp\StudentApplication\StudentApplication\bin\TantaneLib.dll
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\bin\roslyn\csc.exe
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\bin\roslyn\vbc.exe
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\bin\StudentApplication.dll.config
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\bin\StudentApplication.dll
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\bin\StudentApplication.pdb
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\bin\System.Web.Helpers.dll
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\bin\System.Web.Mvc.dll
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\bin\System.Web.Razor.dll
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\bin\System.Web.Webpages.Deployment.dll
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\bin\System.Web.Webpages.dll
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\bin\System.Web.Webpages.Razor.dll
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\bin\TantaneLib.dll
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\bin\System.Web.Razor.xml
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\bin\System.Web.Webpages.xml
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\bin\System.Web.Webpages.Deployment.xml
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\bin\System.Web.Webpages.Razor.xml
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\bin\System.Web.Helpers.xml
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\bin\System.Web.Mvc.xml
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\obj\Debug\StudentApplication.csprojResolveAssemblyReference.cache
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\obj\Debug\StudentApplication.dll
+C:\Users\s.hatami\Desktop\StudentApplication\StudentApplication\obj\Debug\StudentApplication.pdb
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\bin\roslyn\csc.exe
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\bin\roslyn\vbc.exe
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\bin\roslyn\VBCSCompiler.exe
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\bin\StudentApplication.dll.config
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\bin\StudentApplication.dll
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\bin\StudentApplication.pdb
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\bin\System.Web.Helpers.dll
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\bin\System.Web.Mvc.dll
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\bin\System.Web.Razor.dll
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\bin\System.Web.Webpages.Deployment.dll
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\bin\System.Web.Webpages.dll
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\bin\System.Web.Webpages.Razor.dll
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\bin\TantaneLib.dll
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\bin\System.Web.Razor.xml
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\bin\System.Web.Webpages.xml
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\bin\System.Web.Webpages.Deployment.xml
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\bin\System.Web.Webpages.Razor.xml
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\bin\System.Web.Helpers.xml
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\bin\System.Web.Mvc.xml
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\obj\Debug\StudentApplication.csprojResolveAssemblyReference.cache
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\obj\Debug\StudentApplication.dll
+D:\Projects\TantaneLib\Sample proj on MVC by Lib\StudentApplication\StudentApplication\obj\Debug\StudentApplication.pdb
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\bin\roslyn\csc.exe
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\bin\roslyn\vbc.exe
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\bin\roslyn\VBCSCompiler.exe
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\bin\StudentApplication.dll.config
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\bin\StudentApplication.dll
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\bin\StudentApplication.pdb
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\bin\System.Web.Helpers.dll
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\bin\System.Web.Mvc.dll
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\bin\System.Web.Razor.dll
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\bin\System.Web.Webpages.Deployment.dll
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\bin\System.Web.Webpages.dll
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\bin\System.Web.Webpages.Razor.dll
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\bin\System.Web.Razor.xml
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\bin\System.Web.Webpages.xml
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\bin\System.Web.Webpages.Deployment.xml
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\bin\System.Web.Webpages.Razor.xml
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\bin\System.Web.Helpers.xml
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\bin\System.Web.Mvc.xml
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\obj\Debug\StudentApplication.dll
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\obj\Debug\StudentApplication.pdb
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\obj\Debug\StudentApplication.csprojAssemblyReference.cache
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\obj\Debug\StudentApplication.csproj.CoreCompileInputs.cache
+D:\Projects\TantaneLib\MVC\Complate template proj Usage\StudentApplication\StudentApplication\obj\Debug\StudentApplication.csproj.CopyComplete
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\bin\roslyn\csc.exe
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\bin\roslyn\vbc.exe
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\bin\StudentApplication.dll.config
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\bin\StudentApplication.dll
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\bin\StudentApplication.pdb
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\bin\System.Web.Helpers.dll
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\bin\System.Web.Mvc.dll
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\bin\System.Web.Razor.dll
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\bin\System.Web.Webpages.Deployment.dll
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\bin\System.Web.Webpages.dll
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\bin\System.Web.Webpages.Razor.dll
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\bin\TantaneLib.dll
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\bin\System.Web.Razor.xml
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\bin\System.Web.Webpages.xml
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\bin\System.Web.Webpages.Deployment.xml
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\bin\System.Web.Webpages.Razor.xml
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\bin\System.Web.Helpers.xml
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\bin\System.Web.Mvc.xml
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\obj\Debug\StudentApplication.csprojAssemblyReference.cache
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\obj\Debug\StudentApplication.csproj.CoreCompileInputs.cache
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\obj\Debug\StudentApplication.csproj.CopyComplete
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\obj\Debug\StudentApplication.dll
+D:\Projects\Demo projects on tantaneh.com\Tanataneh-SPA\StudentApplication\StudentApplication\obj\Debug\StudentApplication.pdb
